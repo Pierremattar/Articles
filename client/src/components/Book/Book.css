@@ -1,0 +1,24 @@
+
+  .siz{
+    width: 270px;
+    height: 190px;
+  }
+  .CARD {
+    padding-right: 60px;
+    padding-left: 60px;
+    padding-top: 30px;
+  
+  }
+  .zoom {
+    transition: transform .2s;
+  }
+  .butt{
+    margin-right: 60px;
+  }
+  .cardDate{
+    margin-left: 70%;
+  }
+  .load{
+    margin-left: 48%;
+    margin-top: 2%;
+  }
